@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\COA.Models\COA.Models.csproj" />
+    <ProjectReference Include="..\COA.Repositories\COA.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>
